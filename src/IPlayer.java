@@ -1,11 +1,3 @@
-// Interface: IPlayer
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Interface of the assignment
-//
-//-----------------------------------------
-
 import java.util.ArrayList;
 
 public interface IPlayer {
