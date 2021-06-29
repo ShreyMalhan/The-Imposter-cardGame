@@ -1,17 +1,3 @@
-//-----------------------------------------
-// NAME		: Shrey Malhan
-// STUDENT NUMBER	: 7824571
-// COURSE		: COMP 2150
-// INSTRUCTOR	: Mike
-// ASSIGNMENT	: assignment 3
-// QUESTION	: question 1
-//
-// REMARKS: In this assignment you will be implementing "whodunit?", a game that
-// involves deduction to determine the “who, where and how” of a murder.
-//
-//
-//-----------------------------------------
-
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
