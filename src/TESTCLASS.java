@@ -1,19 +1,9 @@
-// CLASS: TESTCLASS
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Class for tests
-//
-//-----------------------------------------
-
-//import org.junit.*;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.BeforeEach;
 
 import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.*;
-//import static org.junit.Assert.*;
 
 public class TESTCLASS {
     ArrayList<Card> ppl = new ArrayList<>();
