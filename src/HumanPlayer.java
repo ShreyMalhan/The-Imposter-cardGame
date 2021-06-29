@@ -1,11 +1,3 @@
-// CLASS: HumanPlayer
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Class for Human Player
-//
-//-----------------------------------------
-
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
