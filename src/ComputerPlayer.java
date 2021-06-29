@@ -1,11 +1,3 @@
-// CLASS: ComputerPlayer
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Class for Computer Player
-//
-//-----------------------------------------
-
 import java.util.ArrayList;
 import java.util.Random;
 
