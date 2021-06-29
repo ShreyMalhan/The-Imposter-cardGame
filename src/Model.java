@@ -1,11 +1,3 @@
-// CLASS: Model
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: this class manages all of the players of the game, all the cards in the game, and the turns of the board.
-//
-//-----------------------------------------
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
