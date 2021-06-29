@@ -1,11 +1,3 @@
-// CLASS: Guess
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Class for Guesses object
-//
-//-----------------------------------------
-
 public class Guess {
     private Card who, where, with;
     private boolean isAnAccusation;
