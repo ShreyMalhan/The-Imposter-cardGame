@@ -1,11 +1,3 @@
-// CLASS: Player
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Abstract super class for Human and Computer player
-//
-//-----------------------------------------
-
 import java.util.ArrayList;
 
 public abstract class Player implements IPlayer{
