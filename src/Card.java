@@ -1,11 +1,3 @@
-// CLASS: Card
-//
-// Author: Shrey Malhan, 7824571
-//
-// REMARKS: Class for Cards
-//
-//-----------------------------------------
-
 public class Card {
     private String type;
     private String value;
